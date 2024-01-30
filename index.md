@@ -38,3 +38,6 @@ I am a [postdoctoral researcher](https://people.epfl.ch/kartik.waghmare) at the 
 
 <!-- Collapsible content button fix. Make it look like [hyperlinks](google.com). Have summary and abstract.
  -->
+<!-- @@im-50
+![](/assets/Logo.jpg)
+@@ -->
