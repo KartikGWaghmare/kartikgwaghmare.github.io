@@ -19,7 +19,7 @@ I did my undergraduate studies at the Indian Institute of Science, Bangalore (II
 1. **The Completion of Covariance Kernels.**\\
    Kartik G. Waghmare & Victor M. Panaretos, (2022).\\
    **Summary.** We consider the problem of positive-definite completion for covariance functions and establish the existence of the kernel analogue of the determinant-maximizing matrix completion. Using this concept, we develop a methodology for covariance estimation from partially observed functional data under intuitive and plausible assumptions.\\ 
-   **Published in:** *The Annals of Statistics*, 50(6), pp.3281-3306.\\  
+   **Published in:** *The Annals of Statistics*, 2022, 50(6), pp.3281-3306.\\  
    [[Paper]](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/The-completion-of-covariance-kernels/10.1214/22-AOS2228.short)
    [[arXiv]](https://arxiv.org/abs/2107.07350)
    [[Code]](https://github.com/kgwstat/covcomp)
