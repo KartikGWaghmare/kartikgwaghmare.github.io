@@ -22,12 +22,14 @@ I did my undergraduate studies at the Indian Institute of Science, Bangalore (II
    **Published in:** *The Annals of Statistics*, 2022, 50(6), pp.3281-3306.\\  
    [[Paper]](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/The-completion-of-covariance-kernels/10.1214/22-AOS2228.short)
    [[arXiv]](https://arxiv.org/abs/2107.07350)
-   [[Code]](https://github.com/kgwstat/covcomp)
+   [[Errata]](assets/paper-1-errata.pdf)
+   [[R Package]](https://github.com/kgwstat/covcomp)
 
 2. **Continuously Indexed Graphical Models.**\\
    Kartik G. Waghmare & Victor M. Panaretos, (2023).\\  
    **Summary.** We demonstrate how Gaussian processes can be thought of as Gaussian graphical models corresponding to continuous index sets and propose a method for recovering the graph of a process from an estimate of its covariance upto an appropriate finite resolution. \\
    [[arXiv]](https://arxiv.org/abs/2302.02482)
+   [[R Package]](https://github.com/kgwstat/CIGM)
 
 3. **The Functional Graphical Lasso.**\\
    Kartik G. Waghmare, Tomas Masak and Victor M. Panaretos, (2023).\\
