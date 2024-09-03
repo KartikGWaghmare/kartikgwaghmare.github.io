@@ -9,7 +9,7 @@ Previously, I was a [postdoctoral researcher](https://people.epfl.ch/kartik.wagh
 
 ## Research Interests
 
-Proper scores, Conformal Inference, Wavelets, Irregularly Sampled Data, Extreme Points of Positive Matrices, Graphical Lasso, Undirected Graphical Models, Functional Data Analysis, Reproducing Kernels, Positive-Definite Completions, Covariance Estimation from Incomplete Data (*in an approximate reverse chronological order*).
+Proper Scores, Conformal Inference, Wavelets, Irregularly Sampled Data, Extreme Points of Positive Matrices, Graphical Lasso, Undirected Graphical Models, Functional Data Analysis, Reproducing Kernels, Positive-Definite Completions, Covariance Estimation from Incomplete Data (*in an approximate reverse chronological order*).
 
 <!--1. 
 1. **Statistical Machine Learning:** Proper Scores, Conformal Prediction.
@@ -27,7 +27,7 @@ Proper scores, Conformal Inference, Wavelets, Irregularly Sampled Data, Extreme 
 
 1. **The Completion of Covariance Kernels.**\\
    Kartik G. Waghmare & Victor M. Panaretos, (2022).\\
-   **Summary.** We consider the problem of positive-definite completion for covariance functions and establish the existence of the kernel analogue of the determinant-maximizing matrix completion. Using this concept, we develop a methodology for covariance estimation from partially observed functional data under intuitive and plausible assumptions.\\ 
+   **Summary.** We consider the problem of positive-definite completion for covariance functions and establish the existence of the kernel analogue of the determinant-maximizing matrix completion. Using this concept, we develop a methodology for covariance estimation from partially observed functional data under intuitive and plausible assumptions.\\
    **Published in:** *The Annals of Statistics*, 2022, 50(6), pp.3281-3306.\\  
    [[Paper]](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-6/The-completion-of-covariance-kernels/10.1214/22-AOS2228.short)
    [[arXiv]](https://arxiv.org/abs/2107.07350)
@@ -40,7 +40,7 @@ Proper scores, Conformal Inference, Wavelets, Irregularly Sampled Data, Extreme 
    **Accepted in:** *Journal of the Royal Statistical Society: Series B.*\\
    [[arXiv]](https://arxiv.org/abs/2302.02482)
    [[R Package]](https://github.com/kgwstat/CIGM)
-   [[Repro]](https://github.com/kgwstat/fgraph-repro)
+   [[Reproduction]](https://github.com/kgwstat/fgraph-repro)
 
 3. **The Functional Graphical Lasso.**\\
    Kartik G. Waghmare, Tomas Masak and Victor M. Panaretos, (2023).\\
