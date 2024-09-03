@@ -4,7 +4,7 @@ I am a [postdoctoral researcher](https://math.ethz.ch/sfs/people.html?u=kwaghmar
 
 Previously, I was a [postdoctoral researcher](https://people.epfl.ch/kartik.waghmare) at the Chair of Mathematical Statistics (SMAT), EPFL working under the supervision of [Prof. Victor M. Panaretos](https://people.epfl.ch/victor.panaretos), Professor of Mathematical Statistics, Institute of Mathematics, EPFL, under whom I also attained my doctoral degree in Mathematics in September, 2023. I did my undergraduate studies at the Indian Institute of Science, Bangalore (IISc).
 
-**Contact:** kartik.waghmare@math.ethz.ch\\
+**Contact:** kartik.waghmare@stat.math.ethz.ch\\
 **Address:** HG G 10.3, Rämistrasse 101, 8092  Zürich, Switzerland
 
 ## Research Interests
@@ -50,14 +50,14 @@ Proper scores, Conformal Inference, Wavelets, Irregularly Sampled Data, Extreme 
 4. **The Positive-Definite Completion Problem.**\\
    Kartik G. Waghmare and Victor M. Panaretos, (2024).\\
    **Summary.** We consider the positive-definite completion problem for kernels in a general setting and establish many interesting results concerning its existence and uniqueness of solutions, which include many interesting algebraic and variational characterizations of special solutions. Importantly, we prove the existence of a canonical extension in the context of the classical extension problem of positive-definite functions.\\
-   **Published in:** *Transactions of the American Mathematical Society* **377** (2024), 6549-6594.\\
+   **Published in:** *Transactions of the American Mathematical Society*, 2024, **377**, 6549-6594.\\
    [[Paper]](https://www.ams.org/journals/tran/2024-377-09/S0002-9947-2024-09194-8/home.html)
    [[arXiv]](https://arxiv.org/abs/2309.10143)
 
 5. **A Karhunen-Loève Theorem for Random Flows in Hilbert spaces.**\\
    Leonardo V. Santoro, Waghmare, K. G., and Victor M. Panaretos, (2024).\\
    **Summary.** We generalize the Karhunen-Loève theorem and thus, principal components analysis, to Hilbertian functional data.\\
-   **Published in:** *Electronic Communications in Probabability* 29: 1-12 (2024).\\
+   **Published in:** *Electronic Communications in Probabability*, 2024, 29: 1-12.\\
    [[Paper]](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-29/issue-none/A-KarhunenLo%C3%A8ve-theorem-for-random-flows-in-Hilbert-spaces/10.1214/24-ECP597.full)
    [[arXiv]](https://arxiv.org/abs/2303.00702)
 
